@@ -1,0 +1,85 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif
+font-weight: 400;
+    margin: 10px 0;
+    }
+
+.ul{
+	list-style: none;
+	padding: 20px 10px;
+	overflow: hidden;
+	background-color: white;
+	
+}
+ .li{
+ display: flex;
+ justify-content: space-between;
+
+ }
+
+.li a{
+   color: black;
+  text-align: center;
+  padding: 14px 16px;
+  letter-spacing: 5px;
+  font-size: 20px;
+  text-decoration: none;
+}
+.row{
+	padding-top: 10px;
+	display: flex;
+	position: relative;
+
+}
+.column{
+	flex: 33.33%;
+     padding: 20px;
+   
+    
+}
+.h3{
+	display: block;
+	margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+	text-align: center;
+	color: gray;
+	font-size: 24px;
+	line-height: 1.5;
+
+
+}
+p{
+ color: gray;
+ font-size: 18px;
+}
+
+hr{
+	padding-top: 30px;
+	color: lightgray;
+}
+h2{
+	padding-top: 30px;
+	text-align: center;
+	font-size: 24px;
+	color: gray;
+}
+.img{
+	  padding-top: 30px;
+	  text-align: center;
+	  max-width: 833px;
+      height: 500px;
+      margin-left: 20%
+}
+h4{
+    padding-top: 50px;
+	text-align: center;
+	font-size: 24px;
+
+}
+.p1{
+	padding-top: 20px;
+	text-align: center;
+	color: gray;
+	font-size: 20px;
+}
